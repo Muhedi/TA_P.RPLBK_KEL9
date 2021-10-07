@@ -1,0 +1,24 @@
+
+- YG SEBELUMNYA KEPASANG DI PROYEK NI YAITU
+npm install axios
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install --save react-router-dom
+npm install -g json-server 
+npm install antd
+npm install react-bootstrap@next bootstrap@5.1.1
+npm install --save styled-components
+
+
+- json-server --watch db.json --port 8000  (karena saya konfig dg port 8000)
+
+KELOMPOK 9 PRAK RPLBK
+MUHAMMAD EDI ILFA 21120118120017
+INDRA K
+
+
+modul 2 = props
+MOdul 3 = state , event handling, lifecycle
+Modul 5 = API json dan modal
+-
+

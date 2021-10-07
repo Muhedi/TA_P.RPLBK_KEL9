@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #0000003a;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,35 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Navbar {
+  left: 1px;
+  top: 20px;
+  bottom: 20px;
+
+  /* background-color: rgb(255, 255, 255); */
+  background: rgba(255, 5, 5, 0.8);
+  border-radius: 15px;
+}
+
+.text-navbar {
+  font-size: 20px;
+}
+.logo-text {
+  color: rgba(0, 0, 255, 0.24);  
+}
+.body-4 {
+  color: rgb(0, 0, 0);
+  background: rgba(255, 5, 5, 0.8);
+}
+
+.body-5 {
+  color: rgb(0, 0, 0);
+  background: yellow;
+}
+
+.nav-a {
+  color: #030e11;
+  font-style: bold;
 }

@@ -1,0 +1,35 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "judul": "THE GODFATHER (1972)",
+      "poster": "https://th.bing.com/th/id/OIP.ODR-vodZcrXLCACNagB1zQHaEK?pid=ImgDet&rs=1",
+      "genre": "Action, Mafia, Crime",
+      "harga": "Sewa Rp 15.000, Beli CD Rp 300.000",
+      "detail": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "character": "Michael Corleone Played by Al Pacino, Tom Hagen Played by Robert Duvall, Kay Adams Corleone Played by Diane Keaton, Tom Hagen Played by Robert Duvall, (Santino) Sonny Corleone Played by James Caan, Fredo Corleone Played by John Cazale, Connie Corleone Rizzi Played by Talia Shire, Carlo Rizzi Played by Gianni Russo, Apollonia Corleone Played by Simonetta Stefanelli, Clemenza Played by Richard S. Castellano (1) and B. Kirby, Jr. (2), Tessio, Played by Abe Vigoda (1, 2) and John Aprea (2), Don Fanucci Played by Gaston Moschin, etc",
+      "trailer" : "https://youtu.be/sY1S34973zA"
+    },
+    {
+      "id": "2",
+    "judul": "THE DARK KNIGHT RISES (2012)",
+      "poster": "https://th.bing.com/th/id/R.a62306e5dfc32dd3cd7a0e6e4e424d7b?rik=z5fxjvVo9Nw1xg&riu=http%3a%2f%2fbest-wallpaper.net%2fwallpaper%2f1920x1080%2f1206%2f2012-The-Dark-Knight-Rises_1920x1080.jpg&ehk=vNu9Pxl54d%2f5orrl5m6PhU6FZR93JrGbWw%2bht4VfVwU%3d&risl=&pid=ImgRaw&r=0",
+      "genre": "Crime, Action",
+      "harga": "Sewa Rp 10.000, Beli CD Rp 500.000",
+      "detail": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent’s crimes to protect the late attorney’s reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham’s finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+      "character": "Christian Bale as Bruce Wayne, Gary Oldman as Commissioner Gordon,Tom Hardy as Bane, Joseph Gordon-Levitt as Blake, Anne Hathaway as Selina,Marion Cotillard as Miranda, Morgan Freeman as Fox. Michael Caine as Alfred, Matthew Modine as Foley, Alon Aboutboul as Dr. Pavel (as Alon MoniAboutboul), Ben Mendelsohn as Daggett. Burn Gorman as Stryver, Daniel Sunjata as Captain Jones, Aidan Gillen as CIA Op, Sam Kennard as Special Ops Sergeant, Aliash Tepina as Hooded Man #2, Nestor Carbonell as Mayor, Brett Cullen as Congressman, Nick Julian as Caterer, Miranda Nolan as Maid #2, Claire Julien as Maid #2, Reggie Lee as Ross, Joseph Lyle Taylor as DWP Man, Chris Ellis as Fr. Reilly and etc",
+      "trailer": "https://www.youtube.com/watch?v=GokKUqLcvD8"
+    },
+     {
+      "id": "3",
+    "judul": "THE SHAWSHANK REDEMPTION (1994)",
+      "poster": "https://cdn.shopify.com/s/files/1/0747/3829/products/mHP0131_grande.jpeg?v=1571444281",
+      "genre": "Crime, Drama",
+      "harga": "Sewa Rp 15.000, Beli CD Rp 450.000",
+      "detail": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates — including an older prisoner named Red — for his integrity and unquenchable sense of hope.",
+      "character": " Andy Dufresne  as a banker convicted of killing his wife, Red Smith as The narrator in prison for murdering his wife neighbor and neighbor's baby, Sam Norton as a Warden at Shawshank Prison a religious but corrupt man, Tommy Williams as a Prisoner at Shawshank Prison tells Andy a story that may change his life, Rita Hayworth as a movie star whose poster is very popular, Byron Hadley as a guard at Shawshank prison a mean tempered corrupt man, Linda Cufresne.. Andy's wife had an affair with Glenn Quentin golf pro, Bogs Diamond as a Prisoner at Shawshank Prison and one of the sisters Andy pays someone to beat him up, Rooster McBride as a One of the Sisters vicios men who attack other prisoners Andy breaks his nose, Rory Tremont as a guard at Shawshank Prison And etc",
+      "trailer": "https://youtu.be/NmzuHjWmXOc"
+    }
+    
+  ]
+}
