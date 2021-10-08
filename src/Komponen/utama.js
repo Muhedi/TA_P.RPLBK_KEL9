@@ -5,7 +5,7 @@ import Detail from './detail';
 import { useContext, createContext } from 'react';
 
 const Context = createContext('Default Value');
-export function Home() {
+export function Utama() {
   const value = 'MUHAMMAD EDI ILFA';
   const value1 = '2112011812017';
   return (

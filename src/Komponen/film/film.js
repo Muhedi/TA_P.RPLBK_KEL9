@@ -9,7 +9,7 @@ import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { Container } from 'react-bootstrap';
-import { Home } from '../home';
+import { Utama } from '../utama';
 import { Switch, Route } from 'react-router-dom';
 // import Detail from '../detail';
 
@@ -105,9 +105,7 @@ export default class film extends Component {
     komponen1: false,
   };
 
-  shouldComponentUpdate(nextProps, nextState, nextContext) {
-    return window.confirm('HALO DARI TOKOPAEDI.COM');
-  }
+
 
   ubahkomponen1 = () => {
     this.setState((state) => {
@@ -127,7 +125,7 @@ export default class film extends Component {
             FILEM
           </Button>
           <Switch>
-            <Route path="/" exact component={Home} />
+            <Route path="/" exact component={Utama} />
           </Switch>
           {/* <Detail /> */}
         </div>

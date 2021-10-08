@@ -4,7 +4,7 @@ import './App.css';
 import { Container } from 'react-bootstrap';
 import { Navbar, Nav } from 'react-bootstrap';
 import film from './Komponen/film/film';
-import { Home } from './Komponen/home';
+import { Utama } from './Komponen/utama';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
@@ -42,7 +42,7 @@ function App() {
           </Navbar>
         </Container>
         <Switch>
-          <Route path="/" exact component={Home} />
+          <Route path="/" exact component={Utama} />
           <Route path="/film" exact component={film} />
         </Switch>
       </BrowserRouter>
